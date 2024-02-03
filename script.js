@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Youtube真正100%音量
-// @namespace    https://dark495.me/
+// @namespace    https://github.com/xlch88/Youtube-Bomb
 // @author       Dark495 (https://dark495.me/)
 // @version      2024-02-03
 // @license      WTFPL
