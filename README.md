@@ -1,6 +1,6 @@
 # Youtube-Bomb
 
-Youtube真正100%音量
+Youtube真正100%音量 ~~，专为ADHD以及码怒症患者开发~~
 
 # 使用
 
